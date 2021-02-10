@@ -9,3 +9,6 @@ I hope to learn how to analyze and interpret various types of data, as well as t
 I am taking this class because with the current advancement in technologies, data is everywhere. People, organizations, and companies use data to help make sense of certain information. Therefore, the ability to know how to interpret, construct, and reconstruct data is extremely crucial and useful in almost any area. So I beleive this class will help me gain valuable skills and become comfortable around various type of data.
 
 # Portfolio
+In-class Assignment 1: ##Data Critique Redesign
+<iframe title="Brazil's Golden Oldie Blowout" aria-label="chart" id="datawrapper-chart-DlblA" src="https://datawrapper.dwcdn.net/DlblA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
