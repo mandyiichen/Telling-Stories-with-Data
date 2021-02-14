@@ -14,5 +14,5 @@ I am taking this class because with the current advancement in technologies, dat
 </script>
 Original Article: https://search.proquest.com/docview/1871710986?accountid=9902
 
-## Visualizing Government Debt
+## Data Visualization Exercise 1: General Government Debt
 [Visualizing Government Debt](/dataviz.md)
