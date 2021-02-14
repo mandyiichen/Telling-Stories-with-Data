@@ -4,18 +4,15 @@ This visualization was posted on the website, OECD, to showcase the general gove
 <iframe src="https://data.oecd.org/chart/6gKv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gKv" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</a></iframe>
 
 ## Experimental Redesign 1
-Here I recreated a visualization using the same general government debt data. This exercise was mainly to help me explore the Flourish Studio tool. This
-I chose this specific color because I want the visualization to symbolizes gold. But I also made sure the color is dark enough for readers to see and understand the data clearly. 
-
-Rather than comparing the relative government debt with different countries, this visualization splits each country up as an individual graph and focuses on the trend of government debt over the years. This visualization can be useful when people want to understand how a
+Here I recreated a grid line charts visualization using the same general government debt data. This exercise was mainly to help me explore the Flourish Studio tool. This visualization serves a different purpose from the original one, where rather than comparing the relative government debt with different countries, it splits each country up as an individual graph and focuses on the trend of government debt over the years. This visualization can be useful when people want to understand how a specific country's government debt is changing over the years. However, as each country is presented with its own grid of line chart, shown in the graph below, it is difficult to compare each country's government debt in relation to other countries. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5287101"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Experimental Redesign 2
 I created 
 
-This visualization illustrates the range of government debt for by countries and 
+This visualization illustrates the range of government debt for by countries. Similar to the original bar graph from the website, this chart includes 
 
-I deliberately made all of the lines the same color to avoid the overwhelming rainbow effect. I also included gridlines for both x- and y-axis hoping to ensure easy tracking of each line. 
+I deliberately made all of the lines the same color to avoid the overwhelming rainbow effect. The color gold is used to symbolize the money "gold", but I also made sure such color is dark enough for readers to see and understand the data clearly. Furthermore, I included gridlines for both x- and y-axis hoping to ensure easy tracking of each line. 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5294484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
