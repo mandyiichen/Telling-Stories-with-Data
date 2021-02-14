@@ -5,6 +5,9 @@ This visualization was posted on the website, OECD, to showcase the general gove
 
 ## Experimental Redesign
 Here I recreated a visualization using the same general government debt data. This exercise was mainly to help me explore the Flourish Studio tool. This
+I chose this specific color because I want the visualization to symbolizes gold. But I also made sure the color is dark enough for readers to see and understand the data clearly. 
+
+Rather than comparing the relative government debt with different countries, this visualization splits each country up as an individual graph and focuses on the trend of government debt over the years. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5287101"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Back to main portfolio page](/dataviz.md)
+[Back to main portfolio page](/README.md)
