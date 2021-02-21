@@ -2,7 +2,7 @@
 ## Original Data Visualization
 Original Website: https://gis.cdc.gov/Cancer/USCS/DataViz.html?ref=dGFiPXRhYkRlbW9ncmFwaGljJnFzPTMyLDEwMyw1MTY=
 
-This is the link to the original data visualization. I chose a data visualization under the topic of Cancer because of its important ... it provides. As Cancer is one of the major cause of death, it is crucial for the general public to understand its deadliness in order to raise awareness. Therefore, having effective data visualizations to represent cancer data not only allow people to help communicate valuable information better, but also to make people more interested in understanding about Cancer better.
+This is the link to the original data visualization. I chose a data visualization under the topic of Cancer because of its important as Cancer is one of the major cause of death, it is crucial for the general public to understand its deadliness in order to raise awareness. Therefore, having effective data visualizations to represent cancer data not only allow people to help communicate valuable information better, but also to make people more interested in understanding about Cancer better.
 The reason I picked this particular data visualization to critique and redesign is that although it showcases valuable data information, it has areas that can be improved, and are more importantly, within my ability.
 
 ## Critique Process
@@ -34,12 +34,15 @@ After I created the wireframe, I showed it to my family members and asked them t
 Can you tell me what you think this is? What it is telling you?
 * It’s a graph that shows how different races and sexes have different rate of cancer deaths. It tells me that male is more likely to die from cancer for all races.
 * It’s showing the differeces in cancer death rates among various races and sexes. It's telling me that there are differences between them, with Black having the highest cancer death rate and Asian and Pacific Islander have the lowest cancer death rate. 
+
 Is there anything you find surprising or confusing?
 * Female has lower rate of cancer deaths across all races, which makes me wonder the reasons behind such results. 
 * I am surprised that the differences between races is this significant. I’ve never really thought that people with certain races have higher chances of dying from Cancer. I wonder if it has more to do with nature or nurture. If it’s the genetic composition, or the environment, habits, and medical care. 
+
 Who do you think is the intended audience for this?
 * I think it’s pretty much for all the adults, as the graph is quite simple and easy to understand. 
 * I think it’s intended for those with interests in Cancer. Either people who are generally wanting to know more about the deadliness of Cancer, or those who want to understand their chances of dying from Cancer.
+
 Is there anything you would change or do differently?
 * I think it’s a pretty good graph that shows clear data using easily understandable visualizations.
 * If possible, I would maybe add something that can show the average across all races to understand if the data is above or below the average. Because right now I can only compare relatively with other races, but cannot compare to something overall. 
@@ -53,7 +56,7 @@ Based on the suggestions from the feedbacks I received, I added the average rate
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5354762"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Once I finalized my redesign, I created my final data visualization using flourish and included everything that I have adjusted. For the newly added dashed lines, I included their data value on the graph since the dashed lines are not interactive, and therefore cannot show the exact value when the cursor is placed on it. I used dashed lines to represent the average value because I don't want to overemphasize them and I don't want the lines to cover the bar graphs. Lastly, I made the dashed lines color correspond with the bar graphs to help readers to identify which set of bar graphs the dashed line is relating to. With the little adjustment, 
+Once I finalized my new design, I created my final data visualization using flourish and included everything that I have adjusted. For the newly added dashed lines, I included their data value on the graph since the dashed lines are not interactive, and therefore cannot show the exact value when the cursor is placed on it. I used dashed lines to represent the average value because I don't want to overemphasize them and I don't want the lines to cover the bar graphs. Lastly, I made the dashed lines color correspond with the bar graphs to help readers to identify which set of bar graphs the dashed line is relating to. 
 
 
 [Back to main portfolio page](/README.md)
