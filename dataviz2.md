@@ -29,11 +29,31 @@ As shown in the image above, I changed the original color orange to blue represe
 With this wireframe, I wanted to emphasize the differences between male and female, which is something that the original data visualization failes to illustrates clearly. Furthermore, I wanted readers to be able to grasp the concept faster with my redesigned data visualization as I believe it is clearer, more concise, and better aesthetically looking.
 
 ## Test the Solution
+After I created the wireframe, I showed it to my family members and asked them the several questions to test if other people can understand my redeisgned data visualization easily. I recorded their answers in the following:
 
+Can you tell me what you think this is? What it is telling you?
+* It’s a graph that shows how different races and sexes have different rate of cancer deaths. It tells me that male is more likely to die from cancer for all races.
+* It’s showing the differeces in cancer death rates among various races and sexes. It's telling me that there are differences between them, with Black having the highest cancer death rate and Asian and Pacific Islander have the lowest cancer death rate. 
+Is there anything you find surprising or confusing?
+* Female has lower rate of cancer deaths across all races, which makes me wonder the reasons behind such results. 
+* I am surprised that the differences between races is this significant. I’ve never really thought that people with certain races have higher chances of dying from Cancer. I wonder if it has more to do with nature or nurture. If it’s the genetic composition, or the environment, habits, and medical care. 
+Who do you think is the intended audience for this?
+* I think it’s pretty much for all the adults, as the graph is quite simple and easy to understand. 
+* I think it’s intended for those with interests in Cancer. Either people who are generally wanting to know more about the deadliness of Cancer, or those who want to understand their chances of dying from Cancer.
+Is there anything you would change or do differently?
+* I think it’s a pretty good graph that shows clear data using easily understandable visualizations.
+* If possible, I would maybe add something that can show the average across all races to understand if the data is above or below the average. Because right now I can only compare relatively with other races, but cannot compare to something overall. 
 
 
 ## Final Design
+![Edited Wireframe](/sketch2.jpg)
+
+Based on the suggestions from the feedbacks I received, I added the average rate of cancer death for both male and female for all races/ethnicities to allow readers have a better basis of the data. It also further minimizes the needs for an additional graph to showcase averages, which is shown as the first graph in the original website.
+
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/5354762"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Here is my final redesign that showcases everything I adjusted. 
+
+Once I finalized my redesign, I created my final data visualization using flourish and included everything that I have adjusted. For the newly added dashed lines, I included their data value on the graph since the dashed lines are not interactive, and therefore cannot show the exact value when the cursor is placed on it. I used dashed lines to represent the average value because I don't want to overemphasize them and I don't want the lines to cover the bar graphs. Lastly, I made the dashed lines color correspond with the bar graphs to help readers to identify which set of bar graphs the dashed line is relating to. With the little adjustment, 
+
 
 [Back to main portfolio page](/README.md)
