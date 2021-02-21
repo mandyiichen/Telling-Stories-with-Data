@@ -8,6 +8,7 @@ The reason I picked this particular data visualization to critique and redesign 
 ## Critique Process
 After I took some time to look at and understand the data visualization, I began to evaluate its pros and cons as well as the changes I would make to improve the data visualization.
 I think the type of visualization works well for representing the data. The use of bar graphs clearly illustrates the differences between each race/ethnicity, which is the purpose of the visualization. Furthermore, it doesn’t have overwhelming data, illustrations, and colors that will distract readers from the core data. Due to the topic's purpose and objective, I have identified the type of visualization to be declarative and data-driven. So its features should have clear data point, be informative, and contains factual information. Therefore, I think the original bar graph is an effective graph type in this scenario. 
+
 ![Types of Visualization](/Wireframe 1.png)
 
 
@@ -19,7 +20,8 @@ Another adjustment that I would like was more of a personal preference. For me, 
 
 ## Wireframe
 After I have gained a better understanding of what parts of the data visualization needs to be redesigned, I wireframed a solution that combines everything I have mentioned in my critique. 
-![Wireframe](/sketch1.jpeg)
+
+![Wireframe](/sketch1.jpg)
 
 
 With this wireframe, I wanted to emphasize the differences between male and female, which is something that the original data visualization failes to illustrates clearly. Furthermore, I wanted readers to be able to grasp the 
