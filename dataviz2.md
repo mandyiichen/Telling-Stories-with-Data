@@ -1,6 +1,6 @@
 # Critique by Design: Rate of Cancer Deaths by Sex and Race/Ethnicity
 ## Original Data Visualization
-https://gis.cdc.gov/Cancer/USCS/DataViz.html?ref=dGFiPXRhYkRlbW9ncmFwaGljJnFzPTMyLDEwMyw1MTY=
+Original Website: https://gis.cdc.gov/Cancer/USCS/DataViz.html?ref=dGFiPXRhYkRlbW9ncmFwaGljJnFzPTMyLDEwMyw1MTY=
 
 This is the link to the original data visualization. I chose a data visualization under the topic of Cancer because of its important ... it provides. As Cancer is one of the major cause of death, it is crucial for the general public to understand its deadliness in order to raise awareness. Therefore, having effective data visualizations to represent cancer data not only allow people to help communicate valuable information better, but also to make people more interested in understanding about Cancer better.
 The reason I picked this particular data visualization to critique and redesign is that although it showcases valuable data information, it has areas that can be improved, and are more importantly, within my ability.
@@ -24,8 +24,16 @@ After I have gained a better understanding of what parts of the data visualizati
 ![Wireframe](/sketch1.jpg)
 
 
-With this wireframe, I wanted to emphasize the differences between male and female, which is something that the original data visualization failes to illustrates clearly. Furthermore, I wanted readers to be able to grasp the 
+As shown in the image above, I changed the original color orange to blue representing the male category and pink representing the female category. I also switched the composition of the graph to correspond with the other data visualizations on the same webpage. So the race/ethnicity category that was originally placed on the y-axis is now on the x-axis, and the rate of cancer death is now on the y-axis. Lastly, I merged the male and female graphs into one synchronized graph by placing same category right next to each other.
+
+With this wireframe, I wanted to emphasize the differences between male and female, which is something that the original data visualization failes to illustrates clearly. Furthermore, I wanted readers to be able to grasp the concept faster with my redesigned data visualization as I believe it is clearer, more concise, and better aesthetically looking.
+
+## Test the Solution
 
 
+
+## Final Design
+<div class="flourish-embed flourish-chart" data-src="visualisation/5354762"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Here is my final redesign that showcases everything I adjusted. 
 
 [Back to main portfolio page](/README.md)
