@@ -15,8 +15,5 @@ I am taking this class because with the current advancement in technologies, dat
 Original Article: https://search.proquest.com/docview/1871710986?accountid=9902
 
 ## Data Visualization Exercises:
-### General Government Debt
 [Visualizing Government Debt](/dataviz.md)
-
-### Rate of Cancer Deaths by Sex and Race/Ethnicity
 [Rate of Cancer Deaths by Sex and Race/Ethnicity](/dataviz2.md)
