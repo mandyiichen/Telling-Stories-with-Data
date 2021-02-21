@@ -16,4 +16,5 @@ Original Article: https://search.proquest.com/docview/1871710986?accountid=9902
 
 ## Data Visualization Exercises:
 [Visualizing Government Debt](/dataviz.md)
+
 [Rate of Cancer Deaths by Sex and Race/Ethnicity](/dataviz2.md)
