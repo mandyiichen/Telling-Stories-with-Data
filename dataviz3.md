@@ -52,23 +52,21 @@ I would like to use the data to show how social media platforms are all increasi
 
 **1-2: Percentage of people using social media.**
 
-Source: 
-
-https://datareportal.com/reports/digital-2020-october-global-statshot
+[Source](https://datareportal.com/reports/digital-2020-october-global-statshot)
 
 I would like to use the data from this website to illustrate the number and percentages of internet users as well as active social media users in current days. These data will help to build a background knowledge of how large of a scale and how many people are susceptible to cyberbullying.
 
 
 **1-3: Average time spent on the internet over the years.**
 
-Source: https://ourworldindata.org/rise-of-social-media
+[Source](https://ourworldindata.org/rise-of-social-media)
 
 I want to use the data to also help illustrate how people are more susceptible to cyberbullying as they are spending more time on the internet over the years. This data will also help explain the reason why cyberbullying is becoming more common nowadays.
 
 
 **2-1: Percentage of reported cyberbullying by countries.**
 
-Source: https://ceoworld.biz/2018/10/29/countries-where-cyber-bullying-was-reported-the-most-in-2018/
+[Source:](https://ceoworld.biz/2018/10/29/countries-where-cyber-bullying-was-reported-the-most-in-2018/)
 
 I would like to use this data to create a world projection map that illustrates cyberbullying is a global issue to increase the severity of the issue. Such data can also help people understand what countries are showcasing higher percentage of cyberbullying by comparing the percentage with other countries.
 
