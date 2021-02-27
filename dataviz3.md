@@ -1,4 +1,5 @@
-# Stop the growing problem of Cyberbullying NOW
+# Stop the Severity of Cyberbullying NOW
+
 ## Overview:
 ### Project Summary:
 Cyberbullying is becoming more common in today’s advanced-technological society. Such issue needs to be addressed more seriously as anyone can become a victim and it can have detrimental effects on people, both physically and psychologically.
@@ -51,7 +52,9 @@ I would like to use the data to show how social media platforms are all increasi
 
 **1-2: Percentage of people using social media.**
 
-Source: https://datareportal.com/reports/digital-2020-october-global-statshot
+Source: 
+
+https://datareportal.com/reports/digital-2020-october-global-statshot
 
 I would like to use the data from this website to illustrate the number and percentages of internet users as well as active social media users in current days. These data will help to build a background knowledge of how large of a scale and how many people are susceptible to cyberbullying.
 
