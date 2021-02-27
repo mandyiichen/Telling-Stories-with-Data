@@ -45,7 +45,7 @@ Based on the initial sketches that I’ve drawn based on the story structure, I 
 
 **1-1: Number of people using social media platforms over the years.**
 
-Source: https://ourworldindata.org/rise-of-social-media
+[Source](https://ourworldindata.org/rise-of-social-media)
 
 I would like to use the data to show how social media platforms are all increasing its users year by year. This data will help support the idea that more people are using social media, which in turns are more likely to be affected by information and behaviors online, such as cyberbullying.
 
@@ -73,33 +73,35 @@ I would like to use this data to create a world projection map that illustrates 
 
 **2-2: Percentage of different types of cyberbullying experienced by users.**
 
-Source: https://www.statista.com/statistics/333942/us-internet-online-harassment-severity/
+[Source](https://www.statista.com/statistics/333942/us-internet-online-harassment-severity/)
 
 I would like to use this data to inform the audience different types of cyberbullying that people usually experience. This can help people understand that cyberbullying comes in a huge variety of ways, as well as to help increase awareness so they can identify when any of these behaviors occurs in the future. 
 
 
 **2-3: Experience with cyberbullying by gender.**
 
-Source: https://www.pewresearch.org/internet/2018/09/27/a-majority-of-teens-have-experienced-some-form-of-cyberbullying/pi_2018-09-27_teens-and-cyberbullying_0-06/
+[Source](https://www.pewresearch.org/internet/2018/09/27/a-majority-of-teens-have-experienced-some-form-of-cyberbullying/pi_2018-09-27_teens-and-cyberbullying_0-06/)
 
 I want to use this data to illustrate that both genders are equally likely to experience cyberbullying, but there are subtle differences with the type of cyberbullying each gender is more likely to experience.  
 
 
 **2-4: Increase incidents of cyberbullying over the years.**
-Source: 
+
+[Source](https://cyberbullying.org/summary-of-our-cyberbullying-research)
+
 I want to use this data to illustrate that cyberbullying is occurring more often and is affecting more people over the years. This will help make the point that cyberbullying is becoming a more serious issue nowadays, and that we should tackle this issue before it continues to get worse in the future. This will persuade the audience to do something about cyberbullying.
 
 
 **2-5: Various effects of cyberbullying**
 
-Source: https://www.broadbandsearch.net/blog/cyber-bullying-statistics
+[Source](https://www.broadbandsearch.net/blog/cyber-bullying-statistics)
 
 I want to use this data to show the severity of effects cyberbullying can have on people. This will help inform that cyberbullying does have many negative effects on people, and that these negative effects can become detrimental and affect one’s standard of living.
 
 
 **2-6: Psychological impact of cyberbullying**
 
-Source: https://www.statista.com/statistics/784838/online-harassment-impact-on-women/
+[Source](https://www.statista.com/statistics/784838/online-harassment-impact-on-women/)
 
 I want to use this data to dive deeper into the negative impact of cyberbullying by focusing on the psychological effects. This data will help generating some fear and concern for cyberbullying, as these emotions can persuade the audience to respond to the call of action and decide to take actions.
 
