@@ -30,7 +30,14 @@ Part 3: Solution
 
 ## Initial Sketches:
 
-
+![Sketch1](/1.jpg)
+![Sketch1](/2.jpg)
+![Sketch1](/3.jpg)
+![Sketch1](/4.jpg)
+![Sketch1](/5.jpg)
+![Sketch1](/6.jpg)
+![Sketch1](/7.jpg)
+![Sketch1](/8.jpg)
 
 ## The Data:
 Based on the initial sketches that I’ve drawn based on the story structure, I have identified data sources that will help me create each data visualization. I will use these data sources to create data visualizations that are best suitable and effective for the concept I want to convey. I have listed the sources’ websites and what information I want to convey using the data below.
@@ -60,7 +67,7 @@ I want to use the data to also help illustrate how people are more susceptible t
 
 Source: https://ceoworld.biz/2018/10/29/countries-where-cyber-bullying-was-reported-the-most-in-2018/
 
-I would like to use this data to create a world projection map that illustrates cyberbullying is a global issue and informs the audience that it 
+I would like to use this data to create a world projection map that illustrates cyberbullying is a global issue to increase the severity of the issue. Such data can also help people understand what countries are showcasing higher percentage of cyberbullying by comparing the percentage with other countries.
 
 
 **2-2: Percentage of different types of cyberbullying experienced by users.**
@@ -97,12 +104,11 @@ I want to use this data to dive deeper into the negative impact of cyberbullying
 
 
 ## Method and Medium:
+I am planning to complete and showcase my final project using Shorthand. Although I do not have any prior knowledge or experience using Shorthand, I believe it is an amazing platform that will allow me to present my story, engage audience, and persuade them to take actions. I will first create all of my data visualizations based on the data sources I’ve researched in the data section above. The medium I will use to create my data visualizations would be either flourish or Tableau based on the type of data visualization. I will try out a few different types of visualizations to better identify the most effective way to represent the data.
 
+After all data visualizations are created, I will write out the content I want to convey for each data visualization, including titles, headers, main points, and additional information. When I have all the content and data visualizations completed, I will begin to create my story on Shorthand. 
 
-
-
-
-
+First step on Shorthand would be to insert all of my stuff in chronological order of the storyline. Then, I will play around with the platform to edit my texts and images, and to change the styles of elements so that there is more variety and engagement. I will also include a call-to-action section at the very end of the story by creating a clickable button that allows people to click on if they decide to take actions. Lastly, I will go over my entire story, experience all the effects and the flow of the story, and make any necessary adjustments. When all looks good, I will publish my story!
 
 
 [Back to main portfolio page](/README.md)
