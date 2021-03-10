@@ -18,20 +18,20 @@ I have created my story outline and relevant components using wireframes. I have
 * Layout of each slides. 
 I have also adjusted the structure of the project a little after I continued to develop my story outline as I believe the newly adjusted outline makes the story flow better. For example, I moved the data visualization showing the increased incidents of cyberbullying over the years from the conflict section (around the middle part of my story) to the setup. This is because I believe it is crucial for the audience to understand the severity of cyberbullying early on, and that such visualization supports the conclusion of an increase in frequency of cyberbullying from the previous slide.
 
-![Sketch1](/New Wireframe 2.jpg)
-![Sketch1](/New Wireframe 3.jpg)
-![Sketch1](/New Wireframe 4.jpg)
-![Sketch1](/New Wireframe 5.jpg)
-![Sketch1](/New Wireframe 6.jpg)
-![Sketch1](/New Wireframe 7.jpg)
-![Sketch1](/New Wireframe 8.jpg)
-![Sketch1](/New Wireframe 9.jpg)
-![Sketch1](/New Wireframe 10.jpg)
-![Sketch1](/New Wireframe 11.jpg)
-![Sketch1](/New Wireframe 12.jpg)
-![Sketch1](/New Wireframe 13.jpg)
-![Sketch1](/New Wireframe 14.jpg)
-![Sketch1](/New Wireframe 15.jpg)
+![Sketch1](/New Wireframe 2.png)
+![Sketch1](/New Wireframe 3.png)
+![Sketch1](/New Wireframe 4.png)
+![Sketch1](/New Wireframe 5.png)
+![Sketch1](/New Wireframe 6.png)
+![Sketch1](/New Wireframe 7.png)
+![Sketch1](/New Wireframe 8.png)
+![Sketch1](/New Wireframe 9.png)
+![Sketch1](/New Wireframe 10.png)
+![Sketch1](/New Wireframe 11.png)
+![Sketch1](/New Wireframe 12.png)
+![Sketch1](/New Wireframe 13.png)
+![Sketch1](/New Wireframe 14.png)
+![Sketch1](/New Wireframe 15.png)
 
 ## User research:
 ### Target audience:
