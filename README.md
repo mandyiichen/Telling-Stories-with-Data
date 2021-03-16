@@ -19,7 +19,7 @@ Original Article: https://search.proquest.com/docview/1871710986?accountid=9902
 
 [Rate of Cancer Deaths by Sex and Race/Ethnicity](/dataviz2.md)
 
-## Final Project: Stop Cyberbullying
+## Final Project: It's time we STOP Cyberbullying
 [Part I](/dataviz3.md)
 
 [Part II](/dataviz4.md)
