@@ -12,7 +12,8 @@ I am taking this class because with the current advancement in technologies, dat
 ## In-class Assignment 1: Data Critique Redesign
 <iframe title="Brazil's Golden Oldie Blowout" aria-label="chart" id="datawrapper-chart-DlblA" src="https://datawrapper.dwcdn.net/DlblA/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-Original Article: https://search.proquest.com/docview/1871710986?accountid=9902
+
+[Original Article](https://search.proquest.com/docview/1871710986?accountid=9902)
 
 ## Data Visualization Exercises:
 [Visualizing Government Debt](/dataviz.md)
