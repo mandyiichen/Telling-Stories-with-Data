@@ -32,7 +32,7 @@
 
 
 ## Link to my final data story: 
-https://carnegiemellon.shorthandstories.com/it-s-time-we-stop-cyberbullying-/index.html
+[Link](https://carnegiemellon.shorthandstories.com/it-s-time-we-stop-cyberbullying-/index.html)
 
 ## References:
 1.	“What Is Cyberbullying?” Cyberbullying Research Center. Accessed March 16, 2021. https://cyberbullying.org/what-is-cyberbullying. 
